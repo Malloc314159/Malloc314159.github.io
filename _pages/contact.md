@@ -1,9 +1,11 @@
 ---
 title: Contact
-author: Tao He
-date: 2022-02-05
-category: Jekyll
+author: Malloc
+date: 2022-07-15
+category: Info
 layout: post
 ---
 
-This is an contact page.
+E-mail. malloc_3141592@naver.com
+
+GitHub. https://github.com/Malloc314159
